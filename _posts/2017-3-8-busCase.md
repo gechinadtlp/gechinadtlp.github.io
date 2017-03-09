@@ -32,11 +32,11 @@ As a leader in the industrial world, GE built a cloud that meets the needs indus
 
 At a high level, the primary components of Predix are:  
 
-•	Predix Machine: Predix Machine is the software layer responsible for communicating with the industrial asset and the Predix Cloud, as well as running local applications, like edge analytics. This component can be installed on gateways, industrial controllers and sensors.  
+•	**Predix Machine:** Predix Machine is the software layer responsible for communicating with the industrial asset and the Predix Cloud, as well as running local applications, like edge analytics. This component can be installed on gateways, industrial controllers and sensors.  
 
-•	Predix Services: Predix provides industrial services that developers can use to build, test, and run Industrial Internet applications. It also provides a microservices marketplace where developers can publish their own services as well as consume services from third parties. Operational Services enables application developers to manage the lifecycle and commercialization of their applications.  
+•	**Predix Services:** Predix provides industrial services that developers can use to build, test, and run Industrial Internet applications. It also provides a microservices marketplace where developers can publish their own services as well as consume services from third parties. Operational Services enables application developers to manage the lifecycle and commercialization of their applications.  
 
-•	Predix Cloud: The Predix Cloud is a global secure cloud infrastructure that is optimized for industrial workloads and meeting regulatory needs.
+•	**Predix Cloud:** The Predix Cloud is a global secure cloud infrastructure that is optimized for industrial workloads and meeting regulatory needs.
 
 ### Case Background
 
