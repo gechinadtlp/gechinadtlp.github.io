@@ -22,10 +22,9 @@ GE Power offers a diverse range of products through their sub-businesses: Gas Po
 ### Predix Background
 GE Digital offers a complete portfolio of products, solutions and services that help leading industrial enterprises drive digital transformation. At the heart of this portfolio is Predix – the platform for the Industrial Internet. Purpose-built for industry, it empowers organizations to develop, deploy, and operate industrial apps—driving outcomes such as reduced unplanned downtime, improved asset output, and greater operational efficiency. Decades of experience in industries from power generation to manufacturing to healthcare have enabled GE to create a platform that meets the unique needs of industry.
 Predix is a cloud-based platform that runs in a cloud managed by GE. By leveraging a core set of services and infrastructure provided by the platform, companies can build a system-wide view of their assets. This view allows both improved optimization of each part in the system as well as optimization of the entire system. This is the unique “edge-to-cloud” coverage offered by the Predix platform.
-As a leader in the industrial world, GE built a cloud that meets the needs industrial companies have for scale, security, and regulatory compliance. Predix cloud can handle vast amounts of Industrial Internet information, while also managing customer SLAs, security, support, governance, compliance, and export
+As a leader in the industrial world, GE built a cloud that meets the needs industrial companies have for scale, security, and regulatory compliance. Predix cloud can handle vast amounts of Industrial Internet information, while also managing customer SLAs, security, support, governance, compliance, and export controls. 
 
-
-controls. 
+![Predix Structures](/static/img/predix.png)
 
 At a high level, the primary components of Predix are:
 •	Predix Machine: Predix Machine is the software layer responsible for communicating with the industrial asset and the Predix Cloud, as well as running local applications, like edge analytics. This component can be installed on gateways, industrial controllers and sensors.
@@ -36,6 +35,8 @@ At a high level, the primary components of Predix are:
 
 
 Combined Cycle Power Plant is a typical solution offered by GE Power. Normally, it combines with 4 systems: gas cycle system, steam cycle system, electric system, control system. Key assets include gas turbine, steam turbine and generator. Preventative maintenance and efficiency optimization are two typical operations in power plant daily work. 
+
+![GE Power plant](/static/img/powerplant.png)
 
 Preventative Maintenance: An outage occurs when the product (i.e. a turbine) stops operating as usual. There are two types of outages – planned and unplanned. When an unplanned outage comes, it means a huge loss of power plant and a disaster for the society. Preventative maintenance, as a kind of planned outage, occurs when the customer decides to stop running the turbine in advance and perform regular service.
 Efficiency Optimization requires high flexibility of power plant assets. Usually, the demand of electricity varies over month, which means it would be a waste if assets are running at 100% productivity all the time. Also, outage during a peak time will cause huge loss to both power plant and the society. A balance between supply and demand is necessary to power plants.
@@ -66,22 +67,3 @@ Final deliverable is accepted with a detailed solution in PowerPoint format.
 [predix]: https://www.predix.io/ 
 [iiot]: http://newsroom.ge.com.cn/sites/newsroom.ge.com.cn/files/Predix工业互联网白皮书.pdf 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
