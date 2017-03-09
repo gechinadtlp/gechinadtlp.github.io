@@ -1,5 +1,5 @@
 ---
-layout: knowledge
+layout: default
 title: Knowledge Center
 permalink: /knowledge/
 ---
