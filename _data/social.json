@@ -1,10 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-weibo",
+    "link": "http://weibo.com/ITLP"
   },
   {
-    "icon": "fa-twitter",
+    "icon": "fa-wechat",
     "link": ""
   },
   {
@@ -12,7 +12,7 @@
     "link": ""
   },
   {
-    "icon": "fa-stack-exchange",
+    "icon": "fa-addresscard",
     "link": ""
   }
 ]
