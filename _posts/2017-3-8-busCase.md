@@ -4,9 +4,9 @@ title:  "Business Case"
 date:   2017-03-08 13:50:39
 categories: jekyll
 ---
-### GE Power Digital Case Study
+## GE Power Digital Case Study
 
-## Business Background
+### Business Background
  
 
 GE works to build, cure, move and power the world. Made up of ten major divisions, GE engineers world-class industrial products and services. One of the largest divisions is GE Power, a tier-one business that generated $30B of revenue in 2015.
@@ -14,7 +14,7 @@ GE Power is a world leader in power generation with deep domain expertise that h
 Today, GE technology delivers 1/3 of the world’s electricity and each day we add enough power to support 100,000 people. GE is leading the digital transformation of the energy industry by turning your existing power plant into a virtual copy known as a “digital twin”.
 GE Power offers a diverse range of products through their sub-businesses: Gas Power Systems, Steam Power Systems, Nuclear, Water/Distributed Power, and Power Services. Through close customer collaboration, Power Services dedicates itself to providing service solutions for the products we sell (e.g. gas/steam turbines). We deliver tailored solutions across total plant assets and their operational lifetime to help customers achieve productive business outcomes. Power Services has capabilities and expertise to service and support 90+ original equipment manufacturer (OEM) brands in 150+ countries. By keeping customers at the center of everything we do, our team helps them identify new revenue opportunities, lower operating costs and implement flexible technologies.
 
-## Predix Background
+### Predix Background
 GE Digital offers a complete portfolio of products, solutions and services that help leading industrial enterprises drive digital transformation. At the heart of this portfolio is Predix – the platform for the Industrial Internet. Purpose-built for industry, it empowers organizations to develop, deploy, and operate industrial apps—driving outcomes such as reduced unplanned downtime, improved asset output, and greater operational efficiency. Decades of experience in industries from power generation to manufacturing to healthcare have enabled GE to create a platform that meets the unique needs of industry.
 Predix is a cloud-based platform that runs in a cloud managed by GE. By leveraging a core set of services and infrastructure provided by the platform, companies can build a system-wide view of their assets. This view allows both improved optimization of each part in the system as well as optimization of the entire system. This is the unique “edge-to-cloud” coverage offered by the Predix platform.
 As a leader in the industrial world, GE built a cloud that meets the needs industrial companies have for scale, security, and regulatory compliance. Predix cloud can handle vast amounts of Industrial Internet information, while also managing customer SLAs, security, support, governance, compliance, and export
@@ -27,7 +27,7 @@ At a high level, the primary components of Predix are:
 •	Predix Services: Predix provides industrial services that developers can use to build, test, and run Industrial Internet applications. It also provides a microservices marketplace where developers can publish their own services as well as consume services from third parties. Operational Services enables application developers to manage the lifecycle and commercialization of their applications.
 •	Predix Cloud: The Predix Cloud is a global secure cloud infrastructure that is optimized for industrial workloads and meeting regulatory needs.
 
-Case Background
+### Case Background
 
 
 Combined Cycle Power Plant is a typical solution offered by GE Power. Normally, it combines with 4 systems: gas cycle system, steam cycle system, electric system, control system. Key assets include gas turbine, steam turbine and generator. Preventative maintenance and efficiency optimization are two typical operations in power plant daily work. 
@@ -44,12 +44,18 @@ In this case, you're the operations leader of a large combined cycle power plant
 -	What type of data visualization can best present the data or analysis results?
 Final deliverable is accepted with a detailed solution in PowerPoint format. 
 
-More Reference: 
-http://www.ge.com/cn/ 
-http://pgchina.ge.com.cn/ 
-https://www.ge.com/digital/ 
-https://www.predix.io/ 
-http://newsroom.ge.com.cn/sites/newsroom.ge.com.cn/files/Predix工业互联网白皮书.pdf 
+### More Reference: 
+[GE Official][geofficial]
+[GE Power][gepower]
+[GE Digital][gedigital]
+[Predix Official][predix]
+[Predix工业互联网白皮书.pdf][iiot]
+
+[geofficial]: http://www.ge.com/cn/ 
+[gepower]: http://pgchina.ge.com.cn/ 
+[gedigital]: https://www.ge.com/digital/ 
+[predix]: https://www.predix.io/ 
+[iiot]: http://newsroom.ge.com.cn/sites/newsroom.ge.com.cn/files/Predix工业互联网白皮书.pdf 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
