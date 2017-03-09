@@ -11,10 +11,8 @@ categories: others
 
 GE works to build, cure, move and power the world. Made up of ten major divisions, GE engineers world-class industrial products and services. One of the largest divisions is GE Power, a tier-one business that generated $30B of revenue in 2015.
 
-```markdown
-![GE Businesses](/static/img/GEBusinesses.png);
-``` 
-![GE Businesses](/static/img/GEBusinesses.png);
+
+![GE Businesses](/static/img/GEBusinesses.png)
 
 
 GE Power is a world leader in power generation with deep domain expertise that helps customers deliver electricity from a wide spectrum of fuel sources. We are transforming the electricity industry with the digital power plant, the world’s largest & most efficient gas turbine, full balance of plant solutions, and our data-leveraging software. Our innovative technologies and digital offerings help make power and water more affordable, reliable, accessible and sustainable.
