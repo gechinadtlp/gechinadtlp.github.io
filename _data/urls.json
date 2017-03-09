@@ -12,13 +12,13 @@
   },
   {
     "text": "Knowledge Center",
-    "url": "/knowledge/",
+    "url": "/posts/knowledge/",
     "icon": "fa-graduation-cap",
     "layout": "post"
   },
   {
     "text": "Q&A",
-    "url": "/about/",
+    "url": "/posts/qa/",
     "icon": "fa-comments"
   }
 ]
