@@ -3,6 +3,7 @@ layout: post
 title:  "Business Case"
 date:   2017-03-08 13:50:39
 categories: others
+permalink: /posts/businesscase/
 ---
 ## GE Power Digital Case Study
 
