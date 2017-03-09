@@ -9,7 +9,7 @@ layout: default
 </article>
 <hr />
 {% assign hasSimilar = '' %}
-{% for post in site.knowledgeCenter  %}
+{% for post in site.posts  %}
     {% assign postHasSimilar = false %}
     {% for tag in post.categories %}
         {% for thisTag in page.categories %}
