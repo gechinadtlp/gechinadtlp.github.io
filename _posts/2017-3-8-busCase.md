@@ -2,7 +2,6 @@
 layout: post
 title:  "Business Case"
 date:   2017-03-08 13:50:39
-categories: BusinessCase
 ---
 ## GE Power Digital Case Study
 
@@ -36,19 +35,23 @@ Preventative Maintenance: An outage occurs when the product (i.e. a turbine) sto
 Efficiency Optimization requires high flexibility of power plant assets. Usually, the demand of electricity varies over month, which means it would be a waste if assets are running at 100% productivity all the time. Also, outage during a peak time will cause huge loss to both power plant and the society. A balance between supply and demand is necessary to power plants.
 
 In this case, you're the operations leader of a large combined cycle power plant in China. You're building a Digital Twin for your plant, to better understand its daily operation, perform preventative maintenance, and optimize the efficiency of its power generation. You use Predix to simulate the plant model. Based on Predix provided services, you are required to propose a digital power plant solution, including but not limited to below items.
-•	What problems you want to address in your solution and what’s the business impact?
-•	What kind of industrial services or applications you want to build for your power plant?
-•	what's the architecture for building such an industrial solution in Predix?
--	How to connect key assets in power plant based on Predix?
--	What are the key KPIs of your power plant and where does the data come from?
--	What type of data visualization can best present the data or analysis results?
+#### 	What problems you want to address in your solution and what’s the business impact?
+#### 	What kind of industrial services or applications you want to build for your power plant?
+#### 	what's the architecture for building such an industrial solution in Predix?
+##### •-	How to connect key assets in power plant based on Predix?
+##### •-	What are the key KPIs of your power plant and where does the data come from?
+##### •-	What type of data visualization can best present the data or analysis results?
 Final deliverable is accepted with a detailed solution in PowerPoint format. 
 
 ### More Reference: 
 [GE Official][geofficial]
+
 [GE Power][gepower]
+
 [GE Digital][gedigital]
+
 [Predix Official][predix]
+
 [Predix工业互联网白皮书.pdf][iiot]
 
 [geofficial]: http://www.ge.com/cn/ 
