@@ -13,8 +13,7 @@
   {
     "text": "Knowledge Center",
     "url": "/posts/knowledge/",
-    "icon": "fa-graduation-cap",
-    "layout": "post"
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Q&A",
