@@ -8,10 +8,10 @@ categories: others
 <h1 style="text-align:center">2017 General Electric</h1>
 <h1 style="text-align:center">Digital Industrial Challenge</h1>
 
-#### 通向工业互联网的窗口  
-#### 连接信息数字化的桥梁  
-#### GE年度盛典，数字挑战大赛，  
-#### 现代科技与传统工业的碰撞，就等你来!  
+##### 通向工业互联网的窗口  
+##### 连接信息数字化的桥梁  
+##### GE年度盛典，数字挑战大赛，  
+##### 现代科技与传统工业的碰撞，就等你来!  
 
 ![GE Company](/static/img/engine.png)
 
@@ -51,6 +51,7 @@ DTLP（数字技术领导力培训生项目）是GE历史悠久的管培生项�
 身居高层管理者之位，  
 你将做出怎样的选择？  
 
-案例详述参见：https://gechinadtlp.github.io/posts/businesscase/
+案例详述参见：[https://gechinadtlp.github.io/posts/businesscase/][case]
 
+[case]: https://gechinadtlp.github.io/posts/businesscase/
 [singup]: https://www.wenjuan.com/s/eQR7je/?share=1&newpublish=1&from=singlemessage&isappinstalled=0
