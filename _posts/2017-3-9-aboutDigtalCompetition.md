@@ -12,11 +12,14 @@ categories: others
 GE年度盛典，数字挑战大赛，  
 现代科技与传统工业的碰撞，就等你来!  
 
+![GE Company](/static/img/engine.png)
 
 ### 关于我们：  
 通用电气，唯一一家1884年道琼斯指数设立以来始终在榜的工业领袖。  
 随着工业数字时代的到来，通用电气引领工业互联网潮流，Predix平台为支点，探索数字奥秘，倾听机器对话。  
 DTLP（数字技术领导力培训生项目）是GE历史悠久的管培生项目。伴随着GE数字化转型的脚步，我们将继续专注于领先的数字技术，颠覆工业传统，定义未来制造，共赴时代之邀。  
+
+![DTLP members](/static/img/us.png)
 
 ### 通过这次比赛，您将获得：  
 探索前沿数字技术，领略工业领导者风采，收获暑期实习机会  
@@ -26,12 +29,13 @@ DTLP（数字技术领导力培训生项目）是GE历史悠久的管培生项�
 
 ### 大赛基本信息：  
 报名时间：即日起到4月15日  
-点击此处报名（hyperlink to: https://www.wenjuan.com/s/eQR7je/?share=1&newpublish=1&from=singlemessage&isappinstalled=0）  
+[点击此处报名][singup]
 参与对象：所有在校学生（2018届学生更有实习直通车奖励哦～）  
 赛程安排：
 * 初赛——案例分析，4月15日截止  
 * 决赛——Hackathon， 4月下旬举办  
 
+![competition flow](/static/img/competitionFlow.png)
 
 ### 初赛形式：  
 初赛采用开放式案例分析的形式。参赛者将借助GE工业互联网平台Predix，对GE的真实商业案例进行分析，针对问题提出数字化解决方案。  
@@ -47,3 +51,5 @@ DTLP（数字技术领导力培训生项目）是GE历史悠久的管培生项�
 你将做出怎样的选择？  
 
 案例详述参见：https://gechinadtlp.github.io/posts/businesscase/
+
+[singup]: https://www.wenjuan.com/s/eQR7je/?share=1&newpublish=1&from=singlemessage&isappinstalled=0
