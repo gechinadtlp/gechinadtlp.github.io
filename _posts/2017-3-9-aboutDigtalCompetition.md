@@ -7,10 +7,11 @@ categories: others
 
 <h1 style="text-align:center">2017 General Electric</h1>
 <h1 style="text-align:center">Digital Industrial Challenge</h1>
-通向工业互联网的窗口  
-连接信息数字化的桥梁  
-GE年度盛典，数字挑战大赛，  
-现代科技与传统工业的碰撞，就等你来!  
+
+#### 通向工业互联网的窗口  
+#### 连接信息数字化的桥梁  
+#### GE年度盛典，数字挑战大赛，  
+#### 现代科技与传统工业的碰撞，就等你来!  
 
 ![GE Company](/static/img/engine.png)
 
