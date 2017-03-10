@@ -5,8 +5,8 @@ date:   2017-03-09 13:50:39
 categories: others
 ---
 
-# <center>2017 General Electric</center>
-# <center>Digital Industrial Challenge</center>
+<h1 style="text-align:center">2017 General Electric</h1>
+<h1 style="text-align:center">Digital Industrial Challenge</h1>
 通向工业互联网的窗口  
 连接信息数字化的桥梁  
 GE年度盛典，数字挑战大赛，  
